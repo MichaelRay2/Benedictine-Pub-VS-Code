@@ -139,7 +139,7 @@ nav. {
         }
 
 /* Course Styles */
-.course {
+.information {
         width: 80%;
         margin: auto;
         text-align: center;
@@ -157,9 +157,16 @@ p {
     padding: 10px;
 
 }
-.row {
+.about-content {
     margin-top: 5%;
     display: flex;
     justify-content: space-between;
 }
-.
+.about-us {
+    flex-basis: 31%;
+    background: brown;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
