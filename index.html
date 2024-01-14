@@ -19,7 +19,7 @@
         <nav>
           <a href="index.html"><img src="/Users/michaelray/Desktop/Code Institute Projects/Project 1/VS Code/Benedictine-Pub-VS-Code/assets/Images/benedictine-logo.png"></a> 
             <div class="nav-links" id="navLinks">
-                <i class="fa-solid fa-circle-xmark" onclick="hideMenu()"></i>
+                <i class="fa fa-circle-xmark" onclick="hideMenu()"></i>
                 <ul>
                     <li><a href="">Home</a></li>
                     <li><a href="">About</a></li>
@@ -27,11 +27,11 @@
                     <li><a href="">Book Venue</a></li>
                 </ul>
             </div>    
-        <i class="fa-solid fa-bars" onclick="showMenu()"></i>
+        <i class="fa fa-bars" onclick="showMenu()"></i>
             
         </nav>
     <div class="text-box">
-        <h1>Welcome to the Benedctine Social Club</h1>
+        <h1>Welcome to the Benedictine Social Club</h1>
         <p>Cramlington's favourite local pub. Please come and visit us!</p>
         <a href="https://www.facebook.com/Thebenedictine/?locale=en_GB" class="hero-button">Click to Visit our Facebook Page for latest events.</a>
 
@@ -39,6 +39,18 @@
     </div>
 
     </section>
+    <!-- JavaScript for Toggle Menu -->
+    <script>
+        var navLinks = document.getElementById("navLinks");
+
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
+
+    </script>
 
   <!-- Font Awesome Kit -->
   <script src="https://kit.fontawesome.com/e775e6885e.js" crossorigin="anonymous"></script>  
