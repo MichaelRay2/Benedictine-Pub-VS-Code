@@ -93,6 +93,7 @@ nav .fa-solid{
     display: none;
 }
 
+
 /* Media query to suit mobile phone devices */
 @media (max-width: 700px){
     .text-box h1{
