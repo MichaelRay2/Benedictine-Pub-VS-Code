@@ -188,6 +188,13 @@ h3 {
         flex-direction: column;
     }
 }
+.venues {
+    width: 95%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
 /* Pub Location */
 
 .pub-location {
