@@ -238,7 +238,7 @@ h3 {
 }
 /* Book Venue Page */
 #request {
-    background-image: url("../images/signup-image.webp");
+    background-image: url("/Users/michaelray/Desktop/Code Institute Projects/Project 1/VS Code/Benedictine-Pub-VS-Code/assets/Images/Beer-bubbles.jpg");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -246,11 +246,11 @@ h3 {
 }
 #request-form {
     color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(49, 49, 49, 0.6);
     padding: 30px;
 }
 .venue-heading {
-    color: darkslateblue;
+    color: rgb(1, 1, 1);
 }
 .text-input {
     background: transparent;
