@@ -16,7 +16,7 @@
     position: relative;
 }
 .header-other {
-    min-height: 50vh;
+    min-height: 70vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("/Users/michaelray/Desktop/Code Institute Projects/Project 1/VS Code/Benedictine-Pub-VS-Code/assets/Images/Pub-main.jpg");
     background-position: center;
