@@ -133,8 +133,6 @@ nav. {
 }
 .nav-links ul{
     padding: 30px;
-
-
 }
         }
 
@@ -162,12 +160,12 @@ p {
     padding: 10px;
 
 }
-.about-content {
+.about-content, .venues {
     margin-top: 5%;
     display: flex;
     justify-content: space-between;
 }
-.about-us {
+.about-us, .venues  {
     flex-basis: 31%;
     background: brown;
     border-radius: 10px;
@@ -184,15 +182,31 @@ h3 {
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.4);
 }
 @media(max-width: 700px){
-    .about-content {
+    .about-content, .venues {
         flex-direction: column;
     }
 }
-.venues {
+/* Venues */
+.all-venues {
     width: 95%;
     margin: auto;
     text-align: center;
     padding-top: 50px;
+}
+.concert-room, .conservatory, .beer-garden {
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.concert-room img, .conservatory img, .beer-garden img {
+    width: 100%;
+    border-radius: 10px;
+}
+.concert-room h3, .conservatory h3, .beer-garden h3 {
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: left;
 }
 
 /* Pub Location */
@@ -201,7 +215,7 @@ h3 {
     width: 80%;
     margin: auto;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 10px;
 }
 .google-map {
     padding-bottom: 50%;
@@ -214,4 +228,11 @@ h3 {
     top: 0;
     position: absolute;
 }
-
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
