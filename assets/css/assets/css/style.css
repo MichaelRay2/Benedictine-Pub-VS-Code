@@ -249,12 +249,9 @@ h3 {
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
 }
-.radio-buttons {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
+.venue-heading {
+    color: darkslateblue;
 }
-
 .text-input {
     background: transparent;
     color: #fafafa;
@@ -267,9 +264,11 @@ h3 {
 }
 
 .radio-buttons {
-    width: 100%;
+    width: 80%;
     display: flex;
     justify-content: space-between;
+    margin: 5px 0 20px 50px;
+
 }
 
 .request-button {
@@ -277,7 +276,7 @@ h3 {
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #454b1b;
+    background-color: darkslateblue;
     color: #fafafa;
 }
 /* Footer */
