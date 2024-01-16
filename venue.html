@@ -50,6 +50,32 @@
             <label for="email_address">Email Address:</label> 
             <input type="email" name="email_address" id="email_address" class="text-input" required>
             <br>
+            <label for="cars">Choose an occasion:</label>
+
+<select name="occasions:" id="occasions">
+  <option value="Birthday">Birthday</option>
+  <option value="Wedding">Wedding</option>
+  <option value="Funeral">Funeral</option>
+  <option value="Business Conference">Business Conference</option>
+</select>
+
+<div class="radio-buttons">
+    <div>
+        <label for="conservatory">Conservatory</label>
+        <input type="radio" name="requested_venue" id="conservatory" value="conservatory" required checked>
+
+    </div>
+    <div>
+        <label for="concert_room">Trail</label>
+        <input type="radio" name="requested_venue" id="concert_room" value="concert_room" required>
+    </div>
+    <div>
+        <label for="both">Both</label>
+        <input type="radio" name="requested_venue" id="both" value="both" required>
+    </div>
+</div>
+<button type="submit" class="request-button">Make Request</button>
+
         </form>
     </section>
 
