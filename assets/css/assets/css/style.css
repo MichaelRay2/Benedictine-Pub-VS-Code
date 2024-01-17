@@ -302,6 +302,9 @@ h3 {
     background-size: cover;
     position: relative;
 }
+.sports > p{
+    color:white;
+}
 
 /* Footer */
 #social-networks {
