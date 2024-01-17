@@ -195,7 +195,7 @@ h3 {
     }
 }
 /* Venues */
-.all-venues {
+.all-venues,  {
     width: 95%;
     margin: auto;
     text-align: center;
@@ -302,9 +302,11 @@ h3 {
     background-size: cover;
     position: relative;
 }
+/* The general font set for p elements was not suitable for this line. Therefore, the rule below was needed. */
 .sports > p{
     color:white;
 }
+
 
 /* Footer */
 #social-networks {
