@@ -26,7 +26,7 @@
 /* Centers items in the nav element and applys padding */
 nav {
     display: flex;
-    padding: 2% 6%;
+    padding: 0% 6%;
     justify-content: space-between;
     align-items: center;
 }
@@ -40,7 +40,7 @@ nav img {
 .nav-links ul li{
     list-style: none;
     display: inline-block;
-    padding: 8px 12px;
+    padding: 0px 12px;
     position: relative;
 }
 .nav-links ul li a {
@@ -279,6 +279,11 @@ h3 {
     background-color: darkslateblue;
     color: #fafafa;
 }
+/* Media query to suit mobile phone devices */
+@media (max-width: 700px){
+
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
