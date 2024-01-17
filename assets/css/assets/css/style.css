@@ -80,7 +80,7 @@ nav img {
     color: #fff;
 }
 .open-times {
-    width: 50%;
+    width: 90%;
     color: #fff;
     position: absolute;
     top: 80%;
@@ -91,7 +91,7 @@ nav img {
 .open-times ul li{
     list-style: none;
 }
-.open-times p {display:inline-block
+.open-times p {display:inline-block;
 }
 .hero-button {
     display: inline-block;
@@ -127,7 +127,7 @@ nav .fa{
 }
 .nav-links{
     position: absolute;
-    background: gold;
+    background: maroon;
     height: 100vh;
     width: 200px;
     top: 0;
@@ -165,7 +165,7 @@ nav. {
         text-align: center;
         color: white;
         padding-top: 50px;
-        background-image: linear-gradient(rgba(22, 22, 30, 0.7),rgba(22, 22, 30, 0.7)), url("/Users/michaelray/Desktop/Code Institute Projects/Project 1/VS Code/Benedictine-Pub-VS-Code/assets/Images/Pub-sports.jpg");
+        background-image: url("/Users/michaelray/Desktop/Code Institute Projects/Project 1/VS Code/Benedictine-Pub-VS-Code/assets/Images/Pub-beer.jpg");
         background-position: center;
         background-size: cover;
         position: relative;
@@ -174,6 +174,8 @@ h1 {
     font-size: 36px;
     font-weight: 600;
 }
+/* Changing color of heading to suit lighter background */
+.information h1, .information p {color: #161612}
 p {
     color: #c8c8c4;
     font-size: 14px;
