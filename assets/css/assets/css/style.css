@@ -91,6 +91,8 @@ nav img {
 .open-times ul li{
     list-style: none;
 }
+.open-times p {display:inline-block
+}
 .hero-button {
     display: inline-block;
     text-decoration: none;
