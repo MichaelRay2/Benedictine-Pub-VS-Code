@@ -4,5 +4,5 @@ var navLinks = document.getElementById("navLinks");
             navLinks.style.right = "-60px";
         }
         function hideMenu() {
-            navLinks.style.right = "-200px";
+            navLinks.style.right = "-250px";
         }
