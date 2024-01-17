@@ -290,6 +290,18 @@ h3 {
 
 }
 }
+/* Live Sports */
+.sports {
+    width: 95%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    background-image: linear-gradient(rgba(22, 22, 30, 0.7),rgba(22, 22, 30, 0.7)), url("/Users/michaelray/Desktop/Code Institute Projects/Project 1/VS Code/Benedictine-Pub-VS-Code/assets/Images/Premier-League-Balls.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
 
 /* Footer */
 #social-networks {
