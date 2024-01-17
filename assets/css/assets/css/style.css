@@ -88,7 +88,9 @@ nav img {
     transform: translate(-50%, -50%);
     text-align: center;
 }
-
+.open-times ul li{
+    list-style: none;
+}
 .hero-button {
     display: inline-block;
     text-decoration: none;
