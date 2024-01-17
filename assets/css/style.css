@@ -339,8 +339,11 @@ h3 {
 .Sky-Sports img:hover, .TNT-Sports img:hover, .Amazon-Prime img:hover {
     box-shadow: 0 0 50px 0px rgba(0,0,0,0.4);}
 
-
-
+@media (max-width: 700px) {
+    .Sky-Sports, .TNT-Sports, .Amazon-Sports {
+        flex-basis: 300%;
+}
+}
 /* Footer */
 #social-networks {
     text-align: center;
