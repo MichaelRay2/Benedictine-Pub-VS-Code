@@ -68,7 +68,7 @@ nav img {
     position: absolute;
     top: 40%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -20%);
     text-align: center;
 }
 .text-box h1 {
@@ -82,10 +82,10 @@ nav img {
 .open-times {
     width: 90%;
     color: #fff;
-    position: absolute;
-    top: 80%;
-    left: 50%; 
-    transform: translate(-50%, -50%); 
+    position: relative;
+    top: 50%;
+    left: 50%;  
+    transform: translate(-50%, 0%); 
     text-align: center;
 }
 .open-times ul li{
