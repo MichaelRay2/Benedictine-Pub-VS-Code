@@ -296,15 +296,35 @@ h3 {
     margin: auto;
     text-align: center;
     color: white;
-    padding-top: 50px;
+    padding-top: 30px;
     background-image: linear-gradient(rgba(22, 22, 30, 0.7),rgba(22, 22, 30, 0.7)), url("/Users/michaelray/Desktop/Code Institute Projects/Project 1/VS Code/Benedictine-Pub-VS-Code/assets/Images/Premier-League-Balls.jpg");
-    background-position: center;
-    background-size: cover;
-    position: relative;
 }
+
 /* The general font set for p elements was not suitable for this line. Therefore, the rule below was needed. */
 .sports > p{
     color:white;
+}
+.sports-channels {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Sky-Sports, .TNT-Sports, .Amazon-Sports {
+    flex-basis: 70%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.Sky-Sports img, .TNT-Sports img, .Amazon-Prime img {
+    width: 90%;
+    border-radius: 50px; 
+}
+.Sky-Sports h3, .TNT-Sports h3, .Amazon-Prime h3 {
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: left;
+    
 }
 
 
