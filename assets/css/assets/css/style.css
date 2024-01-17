@@ -297,7 +297,7 @@ h3 {
     text-align: center;
     color: white;
     padding-top: 30px;
-    background-image: linear-gradient(rgba(22, 22, 30, 0.7),rgba(22, 22, 30, 0.7)), url("/Users/michaelray/Desktop/Code Institute Projects/Project 1/VS Code/Benedictine-Pub-VS-Code/assets/Images/Premier-League-Balls.jpg");
+    background-image: url("/Users/michaelray/Desktop/Code Institute Projects/Project 1/VS Code/Benedictine-Pub-VS-Code/assets/Images/Premier-League-Balls.jpg");
 }
 
 /* The general font set for p elements was not suitable for this line. Therefore, the rule below was needed. */
