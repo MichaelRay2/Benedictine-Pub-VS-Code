@@ -36,3 +36,11 @@
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
+
+## Project Goals 
+
+### User Goals
+- To be able to visit the website of a local pub.
+- See a description of the pub's history, social activities and facilities  on offer .
+- To be able to see which sports channels are being shown at the pub.
+- Find the location of the pub.
