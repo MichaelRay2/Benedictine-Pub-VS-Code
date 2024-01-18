@@ -1,9 +1,9 @@
 # Benedictine Pub
-(Developer: Ana Runje)
+(Developer: Michael Ray)
 
-![Mockup image](docs/am-i-responsive.jpg)
+![Mockup image](docs/am_i_responsive.png)
 
-[Live webpage](https://4n4ru.github.io/CI_MS1_BodelschwingherHof/)
+[Live webpage](https://michaelray2.github.io/Benedictine-Pub-VS-Code/)
 
 ## Table of Content
 
