@@ -208,10 +208,10 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="docs/validation/validation_accessibility_index.png">
 </details>
 <details><summary>About</summary>
-<img src="docs/validation/validation_accessibility_about.png">
+<img src="docs/validation/validation_accessibility_sport.png">
 </details>
 <details><summary>Menu</summary>
-<img src="docs/validation/validation_accessibility_menu.png">
+<img src="docs/validation/validation_accessibility_venue.png">
 </details>
 
 ### Performance
@@ -224,3 +224,15 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <details><summary>Home</summary>
 <img src="docs/performance/performance_venue.png">
 </details>
+
+### Performing tests on various devices 
+The website was tested on the following devices:
+- MacBook Pro 14" 
+- LG Ultrafine 4K monitor
+- Iphone 11 Pro 
+- All modes on google's "inspect" feature
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Safari
