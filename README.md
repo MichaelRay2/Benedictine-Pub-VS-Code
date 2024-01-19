@@ -236,3 +236,17 @@ The website was tested on the following devices:
 The website was tested on the following browsers:
 - Google Chrome
 - Safari
+
+### Testing User Stories
+
+All user stories have been successfully tested and completed by navigating through the website.
+
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Some of the fonts do not stand out from the background on some devices | create a media query addressing font colour on certain devices. |
+| The user can submit a request form input without a message | Add required attribute to message input field |
+| Open times text was pushing too high up the page overlapping with the button| Move open times div to within the same button as the div so they can be scaled relatively. |
+| Within the "sports" page, the channel icons were not sizing properly | Increased the flex-basis on laptop screens to 70% and increased it to 300% on smaller devices. |
+| The foam of the beer drink in the background goes behind the light text on smaller devices. | Change colour of this text to black. |
