@@ -154,3 +154,10 @@ links to the Homepage, Live Sports, and Book a Venue.
 
 ### Our Venues
 - Shows the user 3 images of stand-out facilities that the pub has to offer. 
+
+![Our Venues] (docs/features/our_venues.png)
+
+### Our Location
+- SHows the user a live google maps location of the pub.
+
+![Our Location] (docs/features/our_location.png)
