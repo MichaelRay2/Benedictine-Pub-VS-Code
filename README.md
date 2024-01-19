@@ -203,3 +203,15 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 </details>
 
 ### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors. There were 2 contrast errors within the "sport" page. However after looking into this the contrast between the text and background appears to be fine.
+<details><summary>Home</summary>
+<img src="docs/validation/validation_accessibility_index.png">
+</details>
+<details><summary>About</summary>
+<img src="docs/validation/validation_accessibility_about.png">
+</details>
+<details><summary>Menu</summary>
+<img src="docs/validation/validation_accessibility_menu.png">
+</details>
+
+### Performance
