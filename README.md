@@ -196,4 +196,6 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <img src="docs/validation/validation_html_venue.png">
 </details>
 
+### CSS Validation
+
 
