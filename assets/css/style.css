@@ -170,14 +170,18 @@ h1 {
     font-weight: 600;
 }
 /* Changing color of heading to suit lighter background */
-.information h1, .information p {color: #e0e0dc}
+.information h1, .information p {
+    color: #e0e0dc
+}
 p {
     color: #c8c8c4;
     font-size: 14px;
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
-
+}
+#info-header, #info-subheader {
+    color: black;
 }
 .about-content, .venues {
     margin-top: 5%;
