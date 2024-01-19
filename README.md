@@ -250,3 +250,11 @@ All user stories have been successfully tested and completed by navigating throu
 | Open times text was pushing too high up the page overlapping with the button| Move open times div to within the same button as the div so they can be scaled relatively. |
 | Within the "sports" page, the channel icons were not sizing properly | Increased the flex-basis on laptop screens to 70% and increased it to 300% on smaller devices. |
 | The foam of the beer drink in the background goes behind the light text on smaller devices. | Change colour of this text to black. |
+
+## Credits
+Images not referenced below are owned by the developer.
+
+### Media 
+In order of appearance:
+
+
