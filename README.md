@@ -124,6 +124,8 @@ The website consists of three separate pages:
 - Git
 - GitHub
 - Gitpod
+- shutterstock
+- Unsplash
 - Balsamiq
 - Google Fonts
 - Font Awesome
@@ -158,6 +160,40 @@ links to the Homepage, Live Sports, and Book a Venue.
 ![Our Venues] (docs/features/our_venues.png)
 
 ### Our Location
-- SHows the user a live google maps location of the pub.
+- Shows the user a live google maps location of the pub.
 
 ![Our Location] (docs/features/our_location.png)
+
+### Footer
+- Displays icons of the 4 key social media platforms.
+- Featured on all 3 pages.
+ 
+! [Footer] (docs/features/footer.png)
+
+### Live Sports
+- Displays the icons of the three channels that are broadcasted. 
+- If the user hovers over them a shadow will appear.
+- If the user clicks on the icon, they will be taken to the fixture lists.
+
+! [live_sports] (docs/live_sports.png)
+
+### Request Venue
+- Presents a form for the user to fill in in order to request a venue they want to hire.
+
+! [Request Venue] (docs/request_venue.png)
+
+## Validation 
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+<img src="docs/validation/validation_html_index.png">
+</details>
+<details><summary>Sports</summary>
+<img src="docs/validation/validation_html_sports.png">
+</details>
+<details><summary>Venue</summary>
+<img src="docs/validation/validation_html_venue.png">
+</details>
+
+
