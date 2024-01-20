@@ -146,7 +146,7 @@ links to the Homepage, Live Sports, and Book a Venue.
 - The current main method of communication of the pub is through Facebook. Therefore, it is important to have a large button for the user to get to the facebook page.
 - Within the header on the main page the user will be able to see a contact number and opening times. This is only visible on the home page as it would take up unnecessary space on the other pages.
 
-![Logo, navbar and header] (docs/features/logo_and_navbar_header.png)
+![Logo, navbar and header] (assets/docs/features/logo_and_navbar_header.png)
 
 ### About_us
 - A simply styled section that allowes user to gain an understanding of the pub's history, the facilities and the social activities.
@@ -168,7 +168,7 @@ links to the Homepage, Live Sports, and Book a Venue.
 - Displays icons of the 4 key social media platforms.
 - Featured on all 3 pages.
  
-! [Footer] (docs/features/footer.png)
+! [Footer] (assets/docs/features/footer.png)
 
 ### Live Sports
 - Displays the icons of the three channels that are broadcasted. 
