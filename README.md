@@ -265,7 +265,7 @@ In order of appearance:
 - [beer_bubbles](assets/images/beer_bubbles.jpg)<a href="https://www.shutterstock.com/catalog/licenses">Shutterstock Photo</a>
 
 ### Code
-The JavaScript function that allowes the user to open and close the nav menu on smaller devices was taken from here. <a href="https://youtu.be/oYRda7UtuhA?si=7g_BFEmcsmJUYcbP">: 
+The JavaScript function that allowes the user to open and close the nav menu on smaller devices was taken from. <a href="https://youtu.be/oYRda7UtuhA?si=7g_BFEmcsmJUYcbP">here</a> 
 The footer code was taken from the Love Running walk-through project by the code institute.
 The creative design of the website was inspired by my own thought and some trial and error in order to get the code to work.
 404 page was build using description on GitHub Docs
