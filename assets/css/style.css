@@ -7,7 +7,7 @@
 
 }
 /* This sets the pub background image and displays a black tone over the image */
-.header {
+/* .header {
     min-height: 100vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("https://michaelray2.github.io/Benedictine-Pub-VS-Code/assets/Images/pub_main.jpg");
@@ -41,7 +41,7 @@ nav img {
     list-style: none;
     display: inline-block;
     padding: 0px 12px;
-    position: relative;
+    position: relative; */
 }
 .nav-links ul li a {
     color: #fff;
