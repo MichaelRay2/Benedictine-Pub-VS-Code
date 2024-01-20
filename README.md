@@ -256,13 +256,13 @@ Images not referenced below are owned by the developer.
 
 ### Media 
 In order of appearance:
-(assets/Images/pub_main.jpg): Shutterstock photo<a href="https://www.shutterstock.com/image-photo/multiracial-group-happy-friends-having-fun-2281411833">
-(assets/Images/pub_beer.jpg): Shutterstock photo<a href="https://www.shutterstock.com/image-photo/glass-beer-isolated-clipping-path-212771023">
-(assets/Images/concert_room.jpg): Shuttertock photo<a href="https://www.shutterstock.com/image-photo/crowded-concert-hall-scene-stage-lights-2154356657">
-Unsplash photo (assets/Images/conservatory.jpg)beekeepx Unsplash photo<a href="https://www.istockphoto.com/photo/glass-terrace-on-the-roof-garden-with-succulent-plants-and-pebbles-gray-aluminum-gm1738500078-542450022">
-(assets/Images/beer_garden.jpg): Shutterstock photo<a href="https://www.shutterstock.com/image-photo/multicultural-people-toasting-beer-wearing-open-1937176303">
-(assets/Images/premier_league_balls.jpg) Credit: Nathan Rogers, Unsplash photo<a href="https://unsplash.com/photos/pile-of-yellow-orange-and-red-nike-soccer-balls-ObhCU6Vhoe8">
-(assets/Images/beer_bubbles.jpg): Unsplash photo<a href="https://www.shutterstock.com/catalog/licenses">
+- [main_pub](assets/images/pub_main.jpg):<a href="https://www.shutterstock.com/image-photo/multiracial-group-happy-friends-having-fun-2281411833"> Shutterstock photo</a>
+- [pub_beer](assets/images/pub_beer.jpg):<a href="https://www.shutterstock.com/image-photo/">Shutterstock photo</a>
+- [concert_room](assets/images/concert_room.jpg):<a href="https://www.shutterstock.com/image-photo/">Shutterstock photo</a>
+- [conservatory](assets/images/conservatory.jpg):<a href="https://www.istockphoto.com/photo/glass-terrace-on-the-roof-garden-with-succulent-plants-and-pebbles-gray-aluminum-gm1738500078-542450022">Nathan Rogers, Unsplash</a>
+- [beer_garden](assets/images/beer_garden.jpg)<a href="https://www.shutterstock.com/image-photo/multicultural-people-toasting-beer-wearing-open-1937176303">Shutterstock photo</a>
+- [premier_league_balls](assets/images/premier_league_balls.jpg)<a href="https://unsplash.com/photos/pile-of-yellow-orange-and-red-nike-soccer-balls-ObhCU6Vhoe8">Nathan Rogers, Unsplash photo</a>
+- [beer_bubbles](assets/images/beer_bubbles.jpg)<a href="https://www.shutterstock.com/catalog/licenses">Shutterstock Photo</a>
 
 ### Code
 The JavaScript function that allowes the user to open and close the nav menu on smaller devices was taken from here. <a href="https://youtu.be/oYRda7UtuhA?si=7g_BFEmcsmJUYcbP">: 
