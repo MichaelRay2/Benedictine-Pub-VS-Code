@@ -353,6 +353,9 @@ In order of appearance:
 - [premier_league_balls](assets/images/premier_league_balls.jpg):    <a href="https://unsplash.com/photos/pile-of-yellow-orange-and-red-nike-soccer-balls-ObhCU6Vhoe8">Nathan Rogers, Unsplash photo</a>
 - [beer_bubbles](assets/images/beer_bubbles.jpg): <a href="https://www.shutterstock.com/catalog/licenses">Shutterstock Photo</a>
 - [drunk_man](assets/images/drunk_man.png): <a href="https://www.istockphoto.com/search/search-by-asset?affiliateredirect=true&assetid=1182394451&assettype=image&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdrunk-man&utm_medium=affiliate&utm_source=unsplash&utm_term=drunk+man%3A%3A%3A">iStock</a>
+- [sky_sports](assets/images/sky_sports_logo.png): <a href="https://www.skysports.com/">Sky Sports</a>
+- [tnt_sports](assets/images/tnt_sports_logo.png): <a href="https://www.tntsports.co.uk/">TNT Sports</a>
+- [amazon_prime](assets/images/amazon_prime_logo.png): <a href="https://www.amazon.co.uk/gp/video/storefront/?contentType=home&contentId=store&filterId=OFFER_FILTER=SUBSCRIPTIONS&ref_=DVM_PDS_AMC_UK_mi_C_mkw_s7M84aZQO-dc_pcrid_638768559978&mrntrk=slid__pgrid_138861087325_pgeo_1006659_x__ptid_kwd-3151046130&gclid=EAIaIQobChMI4rKVvJbrgwMVfJ1QBh2t2wNWEAAYASAAEgKMV_D_BwE">Amazon Prime</a>
 
 ### Code
 - The JavaScript function that allowes the user to open and close the nav menu on smaller devices was taken from <a href="https://   youtu.be/oYRda7UtuhA?si=7g_BFEmcsmJUYcbP">here.</a> 
