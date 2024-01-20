@@ -175,12 +175,12 @@ links to the Homepage, Live Sports, and Book a Venue.
 - If the user hovers over them a shadow will appear.
 - If the user clicks on the icon, they will be taken to the fixture lists.
 
-![live_sports](docs/live_sports.png)
+![live_sports](docs/features/live_sports.png)
 
 ### Request Venue
 - Presents a form for the user to fill in in order to request a venue they want to hire.
 
-![Request Venue](docs/request_venue.png)
+![Request Venue](docs/features/request_venue.png)
 
 ## Validation 
 
