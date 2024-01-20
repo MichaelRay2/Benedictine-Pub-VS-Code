@@ -378,6 +378,8 @@ In order of appearance:
 - The footer code was taken from the Love Running walk-through project by the code institute.
 - The creative design of the website was inspired by my own thought and some trial and error in order to get the code to work.
 - 404 page was build using description on GitHub Docs.
+- The basis from of the code used to develop the form in the "request a venue" section was taken from the "Love Running" project.
+
 
 ## Acknowledgements
 I would like to take the opportunity to thank:
