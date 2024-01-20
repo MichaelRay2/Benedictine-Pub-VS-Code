@@ -140,47 +140,47 @@ links to the Homepage, Live Sports, and Book a Venue.
 - It allows users to easily navigate the page irrespective of screen size.
 - When the user hovers over a link, the link will reveal a blue underline.
 
-![Logo and navbar] (docs/features/logo_and_navbar.png)
+![Logo and navbar](docs/features/logo_and_navbar.png)
 
 ### Header and header button link to Facebook
 - The current main method of communication of the pub is through Facebook. Therefore, it is important to have a large button for the user to get to the facebook page.
 - Within the header on the main page the user will be able to see a contact number and opening times. This is only visible on the home page as it would take up unnecessary space on the other pages.
 
-![Logo, navbar and header] (assets/docs/features/logo_and_navbar_header.png)
+![Logo, navbar and header](docs/features/logo_and_navbar_header.png)
 
 ### About_us
 - A simply styled section that allowes user to gain an understanding of the pub's history, the facilities and the social activities.
 - If the user hovers over a div, a shadow will appear around the information.
 
-![About us] (assets/docs/features/about_us.png)
+![About us](docs/features/about_us.png)
 
 ### Our Venues
 - Shows the user 3 images of stand-out facilities that the pub has to offer. 
 
-![Our Venues] (docs/features/our_venues.png)
+![Our Venues](docs/features/our_venues.png)
 
 ### Our Location
 - Shows the user a live google maps location of the pub.
 
-![Our Location] (docs/features/our_location.png)
+![Our Location](docs/features/our_location.png)
 
 ### Footer
 - Displays icons of the 4 key social media platforms.
 - Featured on all 3 pages.
  
-![footer](assets/docs/features/footer.png)
+![footer](docs/features/footer.png)
 
 ### Live Sports
 - Displays the icons of the three channels that are broadcasted. 
 - If the user hovers over them a shadow will appear.
 - If the user clicks on the icon, they will be taken to the fixture lists.
 
-! [live_sports] (docs/live_sports.png)
+![live_sports](docs/live_sports.png)
 
 ### Request Venue
 - Presents a form for the user to fill in in order to request a venue they want to hire.
 
-! [Request Venue] (docs/request_venue.png)
+![Request Venue](docs/request_venue.png)
 
 ## Validation 
 
