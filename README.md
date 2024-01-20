@@ -168,7 +168,7 @@ links to the Homepage, Live Sports, and Book a Venue.
 - Displays icons of the 4 key social media platforms.
 - Featured on all 3 pages.
  
-! [Footer] (assets/docs/features/footer.png)
+![Footer] (assets/docs/features/footer.png)
 
 ### Live Sports
 - Displays the icons of the three channels that are broadcasted. 
