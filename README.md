@@ -152,7 +152,7 @@ links to the Homepage, Live Sports, and Book a Venue.
 - A simply styled section that allowes user to gain an understanding of the pub's history, the facilities and the social activities.
 - If the user hovers over a div, a shadow will appear around the information.
 
-![About us] (docs/features/about_us.png)
+![About us] (assets/docs/features/about_us.png)
 
 ### Our Venues
 - Shows the user 3 images of stand-out facilities that the pub has to offer. 
@@ -259,10 +259,14 @@ In order of appearance:
 (assets/Images/pub_main.jpg): Shutterstock photo<a href="https://www.shutterstock.com/image-photo/multiracial-group-happy-friends-having-fun-2281411833">
 (assets/Images/pub_beer.jpg): Shutterstock photo<a href="https://www.shutterstock.com/image-photo/glass-beer-isolated-clipping-path-212771023">
 (assets/Images/concert_room.jpg): Shuttertock photo<a href="https://www.shutterstock.com/image-photo/crowded-concert-hall-scene-stage-lights-2154356657">
-Unsplash photo (assets/Images/conservatory.jpg) Unsplash photo credit:beekeepx<a href="https://www.istockphoto.com/photo/glass-terrace-on-the-roof-garden-with-succulent-plants-and-pebbles-gray-aluminum-gm1738500078-542450022">
+Unsplash photo (assets/Images/conservatory.jpg)beekeepx Unsplash photo<a href="https://www.istockphoto.com/photo/glass-terrace-on-the-roof-garden-with-succulent-plants-and-pebbles-gray-aluminum-gm1738500078-542450022">
 (assets/Images/beer_garden.jpg): Shutterstock photo<a href="https://www.shutterstock.com/image-photo/multicultural-people-toasting-beer-wearing-open-1937176303">
-(assets/Images/premier_league_balls.jpg) Credit: Nathan Rogers Shutterstock photo<a href="https://unsplash.com/photos/pile-of-yellow-orange-and-red-nike-soccer-balls-ObhCU6Vhoe8">
+(assets/Images/premier_league_balls.jpg) Credit: Nathan Rogers, Unsplash photo<a href="https://unsplash.com/photos/pile-of-yellow-orange-and-red-nike-soccer-balls-ObhCU6Vhoe8">
 (assets/Images/beer_bubbles.jpg): Unsplash photo<a href="https://www.shutterstock.com/catalog/licenses">
 
-
+### Code
+The JavaScript function that allowes the user to open and close the nav menu on smaller devices was taken from here. <a href="https://youtu.be/oYRda7UtuhA?si=7g_BFEmcsmJUYcbP">: 
+The footer code was taken from the Love Running walk-through project by the code institute.
+The creative design of the website was inspired by my own thought and some trial and error in order to get the code to work.
+404 page was build using description on GitHub Docs
 
