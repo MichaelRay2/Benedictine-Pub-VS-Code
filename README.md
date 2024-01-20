@@ -114,7 +114,12 @@ The website consists of three separate pages:
 
 ### Wireframes
 
-
+<details><summary>WireFrame for header</summary>
+<img src="docs/wireframe/wireframe_header.png">
+</details>
+<details><summary>WireFrame for general theme</summary>
+<img src="docs/wireframe/wireframe_body.png">
+</details>
 
 ## Technologies Used
 
