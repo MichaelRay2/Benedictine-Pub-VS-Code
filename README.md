@@ -348,6 +348,7 @@ The website was tested on the following browsers:
 | Open times text was pushing too high up the page overlapping with the button| Move open times div to within the same button as the div so they can be scaled relatively. |
 | Within the "sports" page, the channel icons were not sizing properly | Increased the flex-basis on laptop screens to 70% and increased it to 300% on smaller devices. |
 | The foam of the beer drink in the background goes behind the light text on smaller devices. | Change colour of this text to black. 
+| Just prior to submission a new bug has arisen where the logo image will not generate on the live website. The image is still visible on the when opened through right-clicking on VS code.| due to time constraints of the project I do not have time to make a fix. Hopefully the live deployment will fix itself like it has done in the past when images have failed to generate.|
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
