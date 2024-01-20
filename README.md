@@ -85,9 +85,9 @@
 7. As a returning user, I want to make sure the pub is open when I plan to visit.
 
 #### Site Owner 
-8. As the site owner, I want the pub to have an online presence like local competitors.
-9. As the site owner, I want users to get to know the restaurant. 
-10. As the site owner, I want the users to be able to contact us.
+8. As the site owner, I want the users to be able to contact us. 
+9. As the site owner, I want the pub to have an online presence like local competitors. 
+10. As the site owner, I want users to get to know the restaurant.
 
 ## Design
 
@@ -310,6 +310,25 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="user_stories/open_times.png">
 </details>
+
+8. As the site owner, I want the users to be able to contact us.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| The pub has a contact number at the bottom of the header on the home page | Open the pub's website and the contact number is displayed at the bottom of the header section. | The user gets to see the telephone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="user_stories/contact_number.png">
+</details>
+
+9. As the site owner, I want the pub to have an online presence like local competitors.
+    - The website will provide a presents on the web
+    - Time will tell how much traffic the website generates
+10. As the site owner, I want users to get to know the restaurant.
+    - After the website launches, we will be able to track how much time user's spend on the website and the level of interaction.
+
+
+
 
 ## Bugs
 
