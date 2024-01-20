@@ -359,7 +359,7 @@ In order of appearance:
 - [main_pub](assets/images/pub_main.jpg): <a href="https://www.shutterstock.com/image-photo/multiracial-group-happy-friends-having-fun-2281411833"> Shutterstock photo</a>
 - [pub_beer](assets/images/pub_beer.jpg): <a href="https://www.shutterstock.com/image-photo/">Shutterstock photo</a>
 - [concert_room](assets/images/concert_room.jpg): <a href="https://www.shutterstock.com/image-photo/">Shutterstock photo</a>
-- [conservatory](assets/images/conservatory.jpg): <a href="https://www.istockphoto.com/photo/glass-terrace-on-the-roof-garden-with-succulent-plants-and-pebbles-gray-aluminum-gm1738500078-542450022">beekeepx, Unsplash</a>
+- [conservatory](assets/images/conservatory_new.jpg): <a href="https://www.istockphoto.com/photo/glass-terrace-on-the-roof-garden-with-succulent-plants-and-pebbles-gray-aluminum-gm1738500078-542450022">beekeepx, Unsplash</a>
 - [beer_garden](assets/images/beer_garden.jpg): <a href="https://www.shutterstock.com/image-photo/multicultural-people-toasting-beer-wearing-open-1937176303">Shutterstock photo</a>
 - [premier_league_balls](assets/images/premier_league_balls.jpg):    <a href="https://unsplash.com/photos/pile-of-yellow-orange-and-red-nike-soccer-balls-ObhCU6Vhoe8">Nathan Rogers, Unsplash photo</a>
 - [beer_bubbles](assets/images/beer_bubbles.jpg): <a href="https://www.shutterstock.com/catalog/licenses">Shutterstock Photo</a>
