@@ -81,14 +81,13 @@
 
 #### Returning User
 5. As a returning user, I want to visit the facebook page.
-6. As a returnign user, I want to check which sports are on this weekend.
-7. As a returning user, I want to book a venue for a party.
-8. As a returning user, I want to make sure the pub is open when I plan to visit.
+6. As a returning user, I want to book a venue for a party.
+7. As a returning user, I want to make sure the pub is open when I plan to visit.
 
 #### Site Owner 
-13. As the site owner, I want the pub to have an online presence like local competitors.
-14. As the site owner, I want users to get to know the restaurant. 
-15. As the site owner, I want the users to be able to contact us.
+8. As the site owner, I want the pub to have an online presence like local competitors.
+9. As the site owner, I want users to get to know the restaurant. 
+10. As the site owner, I want the users to be able to contact us.
 
 ## Design
 
@@ -239,7 +238,68 @@ The website was tested on the following browsers:
 
 ### Testing User Stories
 
-All user stories have been successfully tested and completed by navigating through the website.
+1. As a first time user, I want to know where the pub is located
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the bottom of the home page, locate the Google Map | User sees a map showing the location of the pub | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/features/our_location.png">
+</details>
+
+2. As a first time user, I want to know what facilities the pub has.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Section with images of the pub's facilities | Navigate to the bottom of down the home page until user sees "venues:" | User sees a three images of the main facilities at the pub | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/features/our_venues.png">
+</details>
+
+3. As a first time user, I want to know more about the activities on offer.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Div element within the about_us section that describes social club people can join. | Navigate down the home page until the Social activities section is reached. | User sees a maroon box filled with text describing the social activities that can be done. | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user_stories/social_activities.png">
+</details>
+
+4. As a first time user, I want to know what sports I can watch.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Links to different sports channels on the sports page. | Click on the sports tab along the navigation div and scroll down to Live sports | User sees three available channels to choose from and it taken to the respective websites when clicked | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="user_stories/live_sports_nav.png">
+<img src="user_stories/live_sports_icons.png">
+</details>
+
+5. As a returning user, I want to visit the pub's facebook page.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Button that highlights when hovered over | Click on the big button on the header section. | User clicks button and is taken to the pub's facebook page. | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="user_stories/facebook_button.png">
+<img src="user_stories/facebook_footer.png">
+</details>
+
+6. As a returning user, I want to book a venue for a party.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Form that allowes the user to enter information and a button to submit the form | Navigate to the "Book Venue" page and enter all information before clicking "request" | form is theoretically sent and bad entrys are rejected| Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="user_stories/facebook_button.png">
+<img src="user_stories/facebook_footer.png">
+</details>
 
 ## Bugs
 
@@ -259,7 +319,7 @@ In order of appearance:
 - [main_pub](assets/images/pub_main.jpg): <a href="https://www.shutterstock.com/image-photo/multiracial-group-happy-friends-having-fun-2281411833"> Shutterstock photo</a>
 - [pub_beer](assets/images/pub_beer.jpg): <a href="https://www.shutterstock.com/image-photo/">Shutterstock photo</a>
 - [concert_room](assets/images/concert_room.jpg): <a href="https://www.shutterstock.com/image-photo/">Shutterstock photo</a>
-- [conservatory](assets/images/conservatory.jpg): <a href="https://www.istockphoto.com/photo/glass-terrace-on-the-roof-garden-with-succulent-plants-and-pebbles-gray-aluminum-gm1738500078-542450022">Nathan Rogers, Unsplash</a>
+- [conservatory](assets/images/conservatory.jpg): <a href="https://www.istockphoto.com/photo/glass-terrace-on-the-roof-garden-with-succulent-plants-and-pebbles-gray-aluminum-gm1738500078-542450022">beekeepx, Unsplash</a>
 - [beer_garden](assets/images/beer_garden.jpg): <a href="https://www.shutterstock.com/image-photo/multicultural-people-toasting-beer-wearing-open-1937176303">Shutterstock photo</a>
 - [premier_league_balls](assets/images/premier_league_balls.jpg):    <a href="https://unsplash.com/photos/pile-of-yellow-orange-and-red-nike-soccer-balls-ObhCU6Vhoe8">Nathan Rogers, Unsplash photo</a>
 - [beer_bubbles](assets/images/beer_bubbles.jpg): <a href="https://www.shutterstock.com/catalog/licenses">Shutterstock Photo</a>
