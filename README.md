@@ -265,7 +265,7 @@ The website was tested on the following browsers:
 | Div element within the about_us section that describes social club people can join. | Navigate down the home page until the Social activities section is reached. | User sees a maroon box filled with text describing the social activities that can be done. | Works as expected |
 
 <details><summary>Screenshot</summary>
-<img src="docs/user_stories/social_activities.png">
+<img src="user_stories/social_activities.png">
 </details>
 
 4. As a first time user, I want to know what sports I can watch.
@@ -355,8 +355,12 @@ In order of appearance:
 - [drunk_man](assets/images/drunk_man.png): <a href="https://www.istockphoto.com/search/search-by-asset?affiliateredirect=true&assetid=1182394451&assettype=image&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdrunk-man&utm_medium=affiliate&utm_source=unsplash&utm_term=drunk+man%3A%3A%3A">iStock</a>
 
 ### Code
-The JavaScript function that allowes the user to open and close the nav menu on smaller devices was taken from <a href="https://youtu.be/oYRda7UtuhA?si=7g_BFEmcsmJUYcbP">here.</a> 
-The footer code was taken from the Love Running walk-through project by the code institute.
-The creative design of the website was inspired by my own thought and some trial and error in order to get the code to work.
-404 page was build using description on GitHub Docs
+- The JavaScript function that allowes the user to open and close the nav menu on smaller devices was taken from <a href="https://   youtu.be/oYRda7UtuhA?si=7g_BFEmcsmJUYcbP">here.</a> 
+- The footer code was taken from the Love Running walk-through project by the code institute.
+- The creative design of the website was inspired by my own thought and some trial and error in order to get the code to work.
+- 404 page was build using description on GitHub Docs
 
+## Acknowledgements
+I would like to take the opportunity to thank:
+- My mentor Mo Shami for the project advice and the feedback given along the way as well as the short notice help given the tight deadlines.
+- The Benedictine pub for encouraging me to create the website and for advising me on what they'd like it contain.
