@@ -294,11 +294,21 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Form that allowes the user to enter information and a button to submit the form | Navigate to the "Book Venue" page and enter all information before clicking "request" | form is theoretically sent and bad entrys are rejected| Works as expected |
+| Form that allowes the user to enter information and a button to submit the form | Navigate to the "Book Venue" page and enter all information before clicking "request". The user should be told if an entry is not acceptable | form is theoretically sent and bad entrys are rejected| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="user_stories/facebook_button.png">
-<img src="user_stories/facebook_footer.png">
+<img src="user_stories/book_venue_nav.png">
+<img src="user_stories/book_venue_rejection.png">
+</details>
+
+7. As a returning user, I want to make sure the pub is open when I plan to visit.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| A text box on the home page header that details the openign times of the pub | Open the pub's website and the opening times are immediately visible | The user gets to see the open times of the pub | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="user_stories/open_times.png">
 </details>
 
 ## Bugs
