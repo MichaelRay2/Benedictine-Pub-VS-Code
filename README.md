@@ -112,6 +112,10 @@ The website consists of three separate pages:
     1) section for header
     2) section for Live Sports
 
+### Wireframes
+
+
+
 ## Technologies Used
 
 ### Languages
@@ -338,7 +342,14 @@ The website was tested on the following browsers:
 | The user can submit a request form input without a message | Add required attribute to message input field |
 | Open times text was pushing too high up the page overlapping with the button| Move open times div to within the same button as the div so they can be scaled relatively. |
 | Within the "sports" page, the channel icons were not sizing properly | Increased the flex-basis on laptop screens to 70% and increased it to 300% on smaller devices. |
-| The foam of the beer drink in the background goes behind the light text on smaller devices. | Change colour of this text to black. |
+| The foam of the beer drink in the background goes behind the light text on smaller devices. | Change colour of this text to black. 
+
+## Deployment
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab along the top of the page.
+2. On the left hand menu click on Pages
+3. For the source select Branch: master
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is live at https://michaelray2.github.io/Benedictine-Pub-VS-Code/"
 
 ## Credits
 Images not referenced below are owned by the developer.
@@ -361,7 +372,7 @@ In order of appearance:
 - The JavaScript function that allowes the user to open and close the nav menu on smaller devices was taken from <a href="https://   youtu.be/oYRda7UtuhA?si=7g_BFEmcsmJUYcbP">here.</a> 
 - The footer code was taken from the Love Running walk-through project by the code institute.
 - The creative design of the website was inspired by my own thought and some trial and error in order to get the code to work.
-- 404 page was build using description on GitHub Docs
+- 404 page was build using description on GitHub Docs.
 
 ## Acknowledgements
 I would like to take the opportunity to thank:
