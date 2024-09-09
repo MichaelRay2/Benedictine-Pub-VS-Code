@@ -8,7 +8,7 @@
 }
 /* This sets the pub background image and displays a black tone over the image */
 .header {
-    min-height: 100vh;
+    min-height: 110vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("https://michaelray2.github.io/Benedictine-Pub-VS-Code/assets/images/pub_main.jpg");
     background-position: center;
