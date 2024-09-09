@@ -18,7 +18,7 @@
 .header-other {
     min-height: 70vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("https://michaelray2.github.io/Benedictine-Pub-VS-Code/assets/Images/pub_main.jpg");
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("https://michaelray2.github.io/Benedictine-Pub-VS-Code/assets/images/pub_main.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -313,7 +313,7 @@ h3 {
     text-align: center;
     color: white;
     padding-top: 30px;
-    background-image: url("https://michaelray2.github.io/Benedictine-Pub-VS-Code/assets/Images/premier_league_balls.jpg");
+    background-image: url("https://michaelray2.github.io/Benedictine-Pub-VS-Code/assets/images/premier_league_balls.jpg");
 }
 
 /* The general font set for p elements was not suitable for this line. Therefore, the rule below was needed. */
