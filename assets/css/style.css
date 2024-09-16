@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     font-family: "Open Sans";
-
 }
 /* This sets the pub background image and displays a black tone over the image */
 .header {
@@ -22,7 +21,7 @@
     background-position: center;
     background-size: cover;
     position: relative;
-}  
+}
 /* Centers items in the nav element and applys padding */
 nav {
     display: flex;
@@ -50,7 +49,7 @@ nav img {
 }
 .nav-links ul li::after{
     content: '';
-    /* erasing line underneathe navs prior to hover */
+   /* erasing line underneathe navs prior to hover */
     width: 0%;
     height: 2px;
     background: blue;
@@ -84,14 +83,15 @@ nav img {
     color: #fff;
     position: relative;
     top: 50%;
-    left: 50%;  
-    transform: translate(-50%, 0%); 
+    left: 50%;
+    transform: translate(-50%, 0%);
     text-align: center;
 }
 .open-times ul li{
     list-style: none;
 }
-.open-times p {display:inline-block;
+.open-times p {
+   display:inline-block;
 }
 .hero-button {
     display: inline-block;
@@ -102,10 +102,9 @@ nav img {
     background: transparent;
     position: relative;
     cursor: pointer;
-
 }
 .hero-button:hover{
-    border: 1px solid blue; 
+    border: 1px solid blue;
     background: blue;
     transition: 0.5s;
 }
@@ -113,65 +112,59 @@ nav img {
 nav .fa{
     display: none;
 }
-
-
 /* Media query to suit mobile phone devices */
 @media (max-width: 700px){
     .text-box h1{
         font-size: 20px;
-}
-.nav-links ul li{
-    display: block;
-
-}
-.nav-links{
-    position: absolute;
-    background: maroon;
-    height: 100vh;
-    width: 200px;
-    top: 0;
-    right: -200px;
-    text-align: left;
-    z-index: 2;
-    transition: 1s;
-}
-
-nav .fa{
+   }
+    .nav-links ul li{
+        display: block;
+   }
+    .nav-links{
+        position: absolute;
+        background: maroon;
+        height: 100vh;
+        width: 200px;
+        top: 0;
+        right: -200px;
+        text-align: left;
+        z-index: 2;
+        transition: 1s;
+   }
+    nav .fa{
         display: block;
         color: #fff;
         margin: 10px;
         font-size: 22px;
         cursor: pointer;
-
+   }
+    .nav {
+        display: block;
+        color: #fff;
+        margin: 10px;
+        font-size: 22px;
+        cursor: pointer;
+   }
 }
-.nav {
-    display: block;
-    color: #fff;
-    margin: 10px;
-    font-size: 22px;
-    cursor: pointer;
-}
-        }
-
 /*Information Styles*/
 .information {
-        width: 95%;
-        margin: auto;
-        text-align: center;
-        color: white;
-        padding-top: 50px;
-        background-image: url("https://michaelray2.github.io/Benedictine-Pub-VS-Code/assets/images/pub_beer.jpg");
-        background-position: center;
-        background-size: cover;
-        position: relative;
-    }
+    width: 95%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    background-image: url("https://michaelray2.github.io/Benedictine-Pub-VS-Code/assets/images/pub_beer.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
 h1 {
     font-size: 36px;
     font-weight: 600;
 }
 /* Changing color of heading to suit lighter background */
 .information h1, .information p {
-    color: #e0e0dc
+    color: #e0e0dc 
 }
 p {
     color: #c8c8c4;
@@ -188,7 +181,7 @@ p {
     display: flex;
     justify-content: space-between;
 }
-.about-us, .venues  {
+.about-us, .venues {
     flex-basis: 31%;
     background: brown;
     border-radius: 10px;
@@ -207,10 +200,10 @@ h3 {
 @media(max-width: 700px){
     .about-content, .venues {
         flex-direction: column;
-    }
+   }
 }
 /* Venues */
-.all-venues  {
+.all-venues {
     width: 95%;
     margin: auto;
     text-align: center;
@@ -221,7 +214,7 @@ h3 {
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
-    color: white
+    color: white 
 }
 .concert-room img, .conservatory img, .beer-garden img {
     width: 100%;
@@ -232,9 +225,7 @@ h3 {
     margin-bottom: 15px;
     text-align: left;
 }
-
 /* Pub Location */
-
 .pub-location {
     width: 80%;
     margin: auto;
@@ -278,15 +269,12 @@ h3 {
     border-radius: 2px;
     padding: 0 5px;
 }
-
 .radio-buttons {
     width: 80%;
     display: flex;
     justify-content: space-between;
     margin: 5px 0 20px 50px;
-
 }
-
 .request-button {
     margin-top: 20px;
     border-radius: 2px;
@@ -297,15 +285,16 @@ h3 {
 }
 /* Media query to suit mobile phone devices */
 @media (max-width: 700px){
-    *{overflow-x: hidden;}
-    /* This makes the radio buttons appear in a list rather than along a row */
+    *{
+       overflow-x: hidden;
+   }
+   /* This makes the radio buttons appear in a list rather than along a row */
     .radio-buttons {
         width: 80%;
         display: inline-block;
         justify-content: space-between;
         margin: 5px 0 20px 50px;
-
-}
+   }
 }
 /* Live Sports */
 .sports {
@@ -316,7 +305,6 @@ h3 {
     padding-top: 30px;
     background-image: url("https://michaelray2.github.io/Benedictine-Pub-VS-Code/assets/images/premier_league_balls.jpg");
 }
-
 /* The general font set for p elements was not suitable for this line. Therefore, the rule below was needed. */
 .sports > p{
     color:white;
@@ -326,7 +314,6 @@ h3 {
     display: flex;
     justify-content: space-between;
 }
-
 .Sky-Sports, .TNT-Sports, .Amazon-Sports {
     flex-basis: 70%;
     border-radius: 10px;
@@ -335,15 +322,15 @@ h3 {
 }
 .Sky-Sports img, .TNT-Sports img, .Amazon-Prime img {
     width: 90%;
-    border-radius: 30px; 
+    border-radius: 30px;
 }
 .Sky-Sports img:hover, .TNT-Sports img:hover, .Amazon-Prime img:hover {
-    box-shadow: 0 0 50px 0px rgba(0,0,0,0.4);}
-
+    box-shadow: 0 0 50px 0px rgba(0,0,0,0.4);
+}
 @media (max-width: 700px) {
     .Sky-Sports, .TNT-Sports, .Amazon-Sports {
         flex-basis: 300%;
-}
+   }
 }
 /* Footer */
 #social-networks {
