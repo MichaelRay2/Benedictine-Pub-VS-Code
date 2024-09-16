@@ -297,6 +297,7 @@ h3 {
 }
 /* Media query to suit mobile phone devices */
 @media (max-width: 700px){
+    *{overflow-x: hidden;}
     /* This makes the radio buttons appear in a list rather than along a row */
     .radio-buttons {
         width: 80%;
